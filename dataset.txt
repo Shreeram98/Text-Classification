@@ -1,2 +1,4 @@
 Sorry! Data set is too large to be uploaded
-it contains 14 different classes,train.csv has 5,60,000 records and test.csv has 70,000 records
+You can find the data set in the following link
+https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
+Data set is named as dbpedia_csv.tar.gz(65MB)
