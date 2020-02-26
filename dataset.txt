@@ -1,0 +1,2 @@
+Sorry! Data set is too large to be uploaded
+it contains 14 different classes,train.csv has 5,60,000 records and test.csv has 70,000 records
